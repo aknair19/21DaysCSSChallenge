@@ -6,3 +6,15 @@ body {
   margin: 0;
   padding: 0;
 }
+.container-layout{
+  background-color: cadetblue;
+  width: 100%;
+}
+.container {
+  width: 80%;
+  max-width: 750px;
+  margin: 0 auto;
+}
+.header{
+  width: 50%;
+}
